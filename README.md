@@ -1,11 +1,11 @@
 # QA-Challenge
-###### **Summary**
+**Summary**
 
 This scenario is intended to demonstrate an end to end flow of a basic scenario that we regularly perform. We don't expect a 100% complete challenge. We're looking to see how you code, problem solve, and research.
 
 Feel free to email us when you have questions at inkboxqa@getinkbox.com
 
-######**Description**
+**Description**
 
 Create a test case for mobile automation which contains the below scenarios:
 1. Sort the products by “Featured”

@@ -7,7 +7,7 @@ Feel free to email us when you have questions at inkboxqa@getinkbox.com
 
 **Description**
 
-Create a test case for mobile automation which contains the below scenarios:
+Create an automated test case for iOS/Android which contains the below scenarios:
 1. Sort the products by “Featured”
 2. Connect to the database (refer to dump for tables) and compare the front-end with the Best selling data in the DB*
 3. Filter with Artist Lenera Solntseva

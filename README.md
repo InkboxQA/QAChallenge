@@ -21,8 +21,8 @@ Create an automated test case for iOS/Android which contains the below scenarios
 
 *Best selling logic to make it easier
 SELECT sp.title, soi.product_id, SUM(soi.quantity) AS total_quantity, COUNT(DISTINCT soi.order_id) AS total_orders
-FROM shopify_orders_items soi
-LEFT JOIN shopify_products sp
+FROM orders_items soi
+LEFT JOIN products sp
 ON soi.product_id = sp.product_id
 WHERE DATE(first_created) >= DATE_SUB(CURRENT_DATE(), INTERVAL 30 DAY)
 AND sp.product_type NOT LIKE '%custom%'

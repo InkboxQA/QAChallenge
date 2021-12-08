@@ -16,7 +16,7 @@ Create an automated test case for iOS/Android which contains the below scenarios
 6. Validate that the “How to apply” accordion has a video attached
 7. Add “e-gift” card from Frequently purchased
 8. Increment the product in cart and verify the number of products in cart match with “item(s)”
-9. Click on conitnue to checkout
+9. Click on continue to checkout
 
 
 *Best selling logic to make it easier

@@ -8,6 +8,7 @@ Feel free to email us when you have questions at inkboxqa@getinkbox.com
 **Description**
 
 Create an automated test case for iOS & Android which contains the below scenarios:
+
 OS: iOS & Android
 Browsers: Safari and Chrome
 Application URL: https://inkbox.com/

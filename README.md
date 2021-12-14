@@ -14,7 +14,7 @@ Browsers: Safari and Chrome
 Application URL: https://inkbox.com/
 
 1. Sort the products by “Featured”
-2. Connect to the database (refer to dump for tables) and compare the front-end with the Best selling data in the DB*
+2. Connect to a test database (refer to dump for tables) and compare the front-end with the Best selling data in the DB*
 3. Filter with Artist Lenera Solntseva
 4. Visit the PDP of product “Ocean heart”
 5. Add a checkpoint to make sure there aren’t any downtimes/400/500 errors on any webpage
